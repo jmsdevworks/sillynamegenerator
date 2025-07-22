@@ -1,5 +1,5 @@
 # sillynamegenerator
-illy Name Generator
+Silly Name Generator
 
 A fun little Python app to generate random, silly names. Great for party games, new usernames, or just a laugh!
 
